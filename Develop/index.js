@@ -1,18 +1,19 @@
 // TODO: Include packages needed for this application
-const generateMarkdown = require("./utils/generateMarkdown");
 const fs = require('fs');
 const inquirer = require('inquirer');
-// TODO: Create an array of questions for user input
+const generateMarkdown = require("./utils/generateMarkdown");
+
+// Questions asked to the user
 const questions = [
     {
         type: 'input',
         name: 'title',
-        message: 'What is the name of the project?'
+        message: 'What is the name of your project?'
     },
     {
         type: 'input',
         name: 'description',
-        message: 'Describe your project.'
+        message: 'Give a description of your project.'
     },
     {
         type: 'input',
@@ -22,12 +23,12 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: 'How do you use your project?'
+        message: 'How do users use your project?'
     },
     {
         type: 'input',
         name: 'credits',
-        message: 'Who are your collaborators.'
+        message: 'Who are your collaborators if there are any?'
     },
     {
         type: 'input',
