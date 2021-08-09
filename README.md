@@ -50,4 +50,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 
 https://choosealicense.com/licenses/mit/
 
+<<<<<<< HEAD
 https://drive.google.com/file/d/1pzqwkA2wMcJJtCg10fOLsYO9V3VFXNNk/view?usp=sharing
+=======
+
+>>>>>>> cfaa18aebe9d30c842b287f603a23b79b145578b
