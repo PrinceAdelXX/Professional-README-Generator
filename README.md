@@ -52,5 +52,5 @@ https://choosealicense.com/licenses/mit/
 
 Link to Google Drive for Video Walkthrough:
 
-https://drive.google.com/drive/u/0/my-drive
+https://drive.google.com/file/d/153StqEp9-eckKByst8vnV1AnJxDWkr7F/view?usp=sharing
 
