@@ -50,7 +50,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 
 https://choosealicense.com/licenses/mit/
 
-Link to Google Drive for Video Walkthrough:
 
-https://drive.google.com/file/d/153StqEp9-eckKByst8vnV1AnJxDWkr7F/view?usp=sharing
+
+https://user-images.githubusercontent.com/34521827/129729108-d34aa888-6876-4675-aed0-35737ff23959.mp4
+
+
 
